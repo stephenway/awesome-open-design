@@ -27,3 +27,6 @@ List of resources and tools for open source design
 ## Organizations
 * [Open Source Design](http://opensourcedesign.net/)
 * [Open Design Foundation](http://opendesign.foundation/)
+
+## Contribute
+Please follow the [general guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) when contributing.
