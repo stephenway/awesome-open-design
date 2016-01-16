@@ -16,7 +16,11 @@ List of resources and tools for open source design
 * [Open Design Now](http://opendesignnow.org/)
 
 ## Tools
-* [Pixelapse](http://pixelapse.com)
+* [Pixelapse](http://pixelapse.com) by Dropbox
+* [Sketch - SketchTool](http://www.sketchapp.com/tool/) by Bohemian Coding
+* [Gulp Sketch](https://github.com/cognitom/gulp-sketch) SketchTool for Gulp
+* [Grunt Sketch](https://github.com/CodeCatalyst/grunt-sketch) SketchTool for Grunt
+* [SketchJS](https://github.com/iDuuck/sketchjs) SketchTool for Node
 
 ## Organizations
 * [Open Source Design](http://opensourcedesign.net/)
