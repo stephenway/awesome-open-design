@@ -1,4 +1,4 @@
-# awesome-open-design
+# Awesome Open Design
 List of resources and tools for open source design
 
 ## Articles
