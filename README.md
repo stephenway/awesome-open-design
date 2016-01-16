@@ -30,3 +30,9 @@ List of resources and tools for open source design
 
 ## Contribute
 Please follow the [general guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) when contributing.
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Stephen Way](http://stephenway.net) has waived all copyright and related or neighboring rights to this work.
