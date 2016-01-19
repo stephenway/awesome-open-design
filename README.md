@@ -18,7 +18,7 @@ List of resources and tools for open source design
 * [Open Design Now](http://opendesignnow.org/)
 
 ## Boilerplates
-* [Open Design Boilerplate](https://github.com/stephenway/open-design-boilerplate)
+* [Open Design Boilerplate](https://github.com/stephenway/open-design-boilerplate) by Stephen Way
 
 ## Tools
 * [Pixelapse](http://pixelapse.com) by Dropbox
