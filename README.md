@@ -17,6 +17,9 @@ List of resources and tools for open source design
 ## Books
 * [Open Design Now](http://opendesignnow.org/)
 
+## Boilerplates
+* [Open Design Boilerplate](https://github.com/stephenway/open-design-boilerplate)
+
 ## Tools
 * [Pixelapse](http://pixelapse.com) by Dropbox
 * [Sketch - SketchTool](http://www.sketchapp.com/tool/) by Bohemian Coding
