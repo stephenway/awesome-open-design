@@ -26,6 +26,7 @@ List of resources and tools for open source design
 * [Gulp Sketch](https://github.com/cognitom/gulp-sketch) SketchTool for Gulp
 * [Grunt Sketch](https://github.com/CodeCatalyst/grunt-sketch) SketchTool for Grunt
 * [SketchJS](https://github.com/iDuuck/sketchjs) SketchTool for Node
+* [Sketch Plugin for Git](https://github.com/mathieudutour/git-sketch-plugin)
 
 ## Organizations
 * [Open Source Design](http://opensourcedesign.net/)
